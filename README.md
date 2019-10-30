@@ -35,8 +35,13 @@ After choosing one of the water masses, the pupil is faced with an environmental
 
 Let's pass Now to the AR activity which requires a Microsoft Kinect V1 to work, because it is based on  gesture recognition:
 
+![](9.png)
 
 In this activity, the real scene captured by the camera will be equipped with virtual objects superimposed on the scene (buttons, geometric shapes in 3D, panels of descriptions) as it is presented in the following interfaces.
 Through the gestures introduced by the Kinect, the user can rotate 360 ° geometric shapes, it can change between the different forms that exist and display the formula for calculating air and volume for each figure
+
+![](7.png)
+
+![](8.png)
 
 	
