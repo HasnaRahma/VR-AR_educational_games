@@ -13,6 +13,7 @@ Tools Used :
  Graphical representation of the interfaces
  
  The first two interfaces that the player sees when connecting the headphones and the
-Launch of the water cycle course are the game controls and the entry menu of the game:
+ Launch of the water cycle course are the game controls and the entry menu of the game:
 
-	![Alt text](relative/path/to/img.jpg?raw=true "Title")
+	![](1.png)
+	
