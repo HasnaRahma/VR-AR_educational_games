@@ -1,8 +1,8 @@
 # VR-AR_educational_games
-These are educational games developed under Unity3D that will be integrated later in an E-learning platform for children
+These are educational games developed with Unity3D that will be integrated later in an E-learning platform for children
 	*Activity_GeographyVR: An exercise using the Oculus Rift and the xbox 360 controller, allows the learner to explore and differentiate between the expanses of water.
 	*Activity_WaterCycleVR: An exercise using the Oculus Rift and the xbox 360 controller, which explains the different stages of the water cycle.
-
+	*Activity_AR : a 3D representation for geometry forms exercice, includs their air and volume calculations. Where the learner can rotate the model and see it in 360° through a gesture recognition system using Microsoft Kinect. 
 # Run the project and Test it
 
 In order to test my project you can download it as a Zip file, unzip it and run the ".exe" files 
