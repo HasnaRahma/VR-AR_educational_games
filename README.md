@@ -3,6 +3,11 @@ These are educational games developed under Unity3D that will be integrated late
 	*Activity_GeographyVR: An exercise using the Oculus Rift and the xbox 360 controller, allows the learner to explore and differentiate between the expanses of water.
 	*Activity_WaterCycleVR: An exercise using the Oculus Rift and the xbox 360 controller, which explains the different stages of the water cycle.
 
+# Run the project and Test it
+
+In order to test my project you can download it as a Zip file, unzip it and run the ".exe" files 
+You can play it with a VR Casque and Xbox 360 controller or just your Labtop and a mouse.
+
 
 Tools Used : 
 	Unity 🎮
